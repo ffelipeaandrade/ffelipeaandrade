@@ -43,3 +43,7 @@ Post graduate in Software Architecture at PUC MG. Senior Engineer at Itaú Uniba
 <code><img height="20" src="https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/docker.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/travis.svg"></code>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffelipeaandrade)](https://github.com/ffelipeaandrade/github-readme-stats)
+
+
